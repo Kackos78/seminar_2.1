@@ -1,0 +1,15 @@
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\bin\Debug\net7.0\Task_10.exe
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\bin\Debug\net7.0\Task_10.deps.json
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\bin\Debug\net7.0\Task_10.runtimeconfig.json
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\bin\Debug\net7.0\Task_10.dll
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\bin\Debug\net7.0\Task_10.pdb
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.csproj.AssemblyReference.cache
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.AssemblyInfoInputs.cache
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.AssemblyInfo.cs
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.csproj.CoreCompileInputs.cache
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.dll
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\refint\Task_10.dll
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.pdb
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\Task_10.genruntimeconfig.cache
+C:\Файлы Дани\GB\Семинары\Введение в С#\Семинар 2.1\Task_10\obj\Debug\net7.0\ref\Task_10.dll
